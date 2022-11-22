@@ -7,6 +7,7 @@ We currently support and maintain validator nodes on the following Comos SDK net
 - Canto
 - E-money
 - Fetch.ai
+- Gravity-Bridge
 - Likecoin
 - Meme
 
