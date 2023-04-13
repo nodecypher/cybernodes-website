@@ -4,9 +4,6 @@ Cybernodes is a non-custodial financial freedom provider, offering DPoS services
 We currently support and maintain validator nodes on the following Comos SDK networks:
 - AssetMantle
 - Bitcanna
-- Canto
-- E-money
-- Fetch.ai
 - Gravity-Bridge
 - Likecoin
 - Meme
