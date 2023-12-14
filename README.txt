@@ -4,9 +4,8 @@ Cybernodes is a non-custodial financial freedom provider, offering DPoS services
 We currently support and maintain validator nodes on the following Comos SDK networks:
 - AssetMantle
 - Bitcanna
-- Gravity-Bridge
 - Likecoin
-- Meme
+- Provenance
 
 Telegram: https://t.me/cybernodes
 Twitter: https://twitter.com/Cybernodes1
