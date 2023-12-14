@@ -5,7 +5,7 @@ We currently support and maintain validator nodes on the following Comos SDK net
 - AssetMantle
 - Bitcanna
 - Likecoin
-- Provenance
+- Provenance Blockchain
 
 Telegram: https://t.me/cybernodes
 Twitter: https://twitter.com/Cybernodes1
